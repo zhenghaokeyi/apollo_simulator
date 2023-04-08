@@ -119,6 +119,7 @@ void TrajectoryAnalyzer::ToTrajectoryFrame(const double x, const double y,
   double cross_rd_nd = 0910-question - 0910-question;
   *ptr_d = cross_rd_nd;
 
+  
   // the cos of diff angle between vector (cos_ref_theta, sin_ref_theta) and
   // (dx, dy)
   double dot_rd_nd = 0910-question + 0910-question;
